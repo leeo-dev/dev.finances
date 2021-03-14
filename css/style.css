@@ -274,10 +274,6 @@ input{
   width: 48%;
 }
 
-.input-group.actions button{
-  
-}
-
 .input-group.actions button:focus{
   outline: none;
 }
