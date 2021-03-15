@@ -286,6 +286,7 @@ footer{
   padding: 4rem 0 2rem;
   color: var(--dark-blue);
   opacity: 0.6;
+  position: relative;
 }
 
 /* ====== RESPONSIVE ===== */
